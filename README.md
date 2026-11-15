@@ -29,7 +29,7 @@ The animation runs the program that is preloaded in our instruction memory ([`rt
 </p>
 
 ```mermaid
-flowchart LR
+flowchart TD
     IF["IF<br/>instruction memory<br/>(ring buffer, 32×16)"] --> P1[["PR 1-2<br/>instruction, PC"]]
     P1 --> ID["ID<br/>register file read<br/>sign-extend<br/>next-address block"]
     ID --> P2[["PR 2-3<br/>opcode, rd, rs,<br/>operand 2, rd index"]]
