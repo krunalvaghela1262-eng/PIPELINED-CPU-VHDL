@@ -134,4 +134,4 @@ docs/                project report, datapath sketch, simulation waveform, anima
 
 ## Team
 
-A four-person team project for the Microprocessors course at IIT Bombay (2025). The [report](docs/report.pdf) has the full details.
+A four-person team project for the Microprocessors course at IIT Bombay (2025). 
